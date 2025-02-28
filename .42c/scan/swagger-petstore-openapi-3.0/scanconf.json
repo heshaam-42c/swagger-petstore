@@ -55,7 +55,8 @@
         "api_key": {
           "name": "SCAN42C_SECURITY_API_KEY",
           "from": "environment",
-          "required": false
+          "required": false,
+          "default": "8851466695878862848"
         },
         "host": {
           "name": "SCAN42C_HOST",
@@ -66,7 +67,8 @@
         "petstore_auth": {
           "name": "SCAN42C_SECURITY_PETSTORE_AUTH",
           "from": "environment",
-          "required": false
+          "required": false,
+          "default": "eyJhbGciOiJSUzM4NCIsInR5cCI6IkpXVCJ9.eyJ1c2VyX3Byb2ZpbGUiOnsiX2lkIjoiYTRkYWVkZjctMjhjMi00NGE0LThiZjUtYTM3OTZhZGQ0NjAwIiwiZW1haWwiOiJhdHRhY2tzLWRlbW9AYWNtZS5jb20iLCJwYXNzd29yZCI6ImhlbGxvcGl4aSIsIm5hbWUiOiJNYW51ZWwgSGlsbGwiLCJhY2NvdW50X2JhbGFuY2UiOjEwMDAsImlzX2FkbWluIjpmYWxzZSwib25ib2FyZGluZ19kYXRlIjoiMjAyNS0wMi0yOFQwNzowMDo1MC4wOTZaIn0sImlhdCI6MTc0MDcyNjA1MCwiZXhwIjoxNzQzMTQ1MjUwLCJhdWQiOiJwaXhpVXNlcnMiLCJpc3MiOiJodHRwczovL2lzc3Vlci40MmNydW5jaC5kZW1vIiwic3ViIjoiYXR0YWNrcy1kZW1vQGFjbWUuY29tIn0.A3wZttfRfArIagxaWBkbaOVatTeN-JP7HkP7fm2-Pk9cuxBO8KOHt53ya2nMKgqNCnMbywm7OC0cTNPrrdC6kYKb5uVvj9PCmrtFkP95f5q4CdIdOoDdLp7KyiLPL-rvOHt_84SEPUqiixh586JfmNrRR11wxhozTa_wUYrxLuG7Ua8FbSZ1Rkj5p_ftINvYPtUhn8lnW0t1qL7CwZMvcFmrR_1Zhha2I_cYS-3v8jWJb1CvjT1awXik_lhb4HQh1aMxTuZBvTLq_bpiVjS8log5zVvj0xVKCUelS9DfP0Z-B2E-oxZ-SN5ml7mwaLI7-uEtBzvyjmooQdbioLgNag"
         }
       }
     }
